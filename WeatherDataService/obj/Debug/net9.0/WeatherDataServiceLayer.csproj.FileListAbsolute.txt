@@ -1,0 +1,17 @@
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\bin\Debug\net9.0\WeatherDataServiceLayer.deps.json
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\bin\Debug\net9.0\WeatherDataServiceLayer.runtimeconfig.json
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\bin\Debug\net9.0\WeatherDataServiceLayer.dll
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\bin\Debug\net9.0\WeatherDataServiceLayer.pdb
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\WeatherDataServiceLayer.csproj.AssemblyReference.cache
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\WeatherDataServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\WeatherDataServiceLayer.AssemblyInfoInputs.cache
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\WeatherDataServiceLayer.AssemblyInfo.cs
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\WeatherDataServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\WeatherDataServiceLayer.dll
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\refint\WeatherDataServiceLayer.dll
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\WeatherDataServiceLayer.pdb
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\WeatherDataServiceLayer.genruntimeconfig.cache
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\ref\WeatherDataServiceLayer.dll
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\bin\Debug\net9.0\WeatherDataLayer.dll
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\bin\Debug\net9.0\WeatherDataLayer.pdb
+C:\Users\miryamcohen\Downloads\WeatherAPIService\WeatherDataService\obj\Debug\net9.0\WeatherD.9D68C019.Up2Date

@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "WeatherAPIService.Controllers.WeatherForecastController",
+    "Method": "GetAverageTemperature",
+    "RelativePath": "api/WeatherForecast/average-temperature",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WeatherAPIService.Controllers.WeatherForecastController",
+    "Method": "GetMaxTemperature",
+    "RelativePath": "api/WeatherForecast/max-temperature",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WeatherAPIService.Controllers.WeatherForecastController",
+    "Method": "GetMinTemperature",
+    "RelativePath": "api/WeatherForecast/min-temperature",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WeatherAPIService.Controllers.WeatherForecastController",
+    "Method": "GetSmartTemperRecommendationAsync",
+    "RelativePath": "api/WeatherForecast/smart-temperature",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.ValueTuple\u00602[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[WeatherDataServiceLayer.DataService.AirConditionerMode, WeatherDataServiceLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
