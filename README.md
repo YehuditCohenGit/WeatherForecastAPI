@@ -23,6 +23,7 @@ This project is a Weather API Service that provides weather data such as average
     - Run the following commands to apply migrations:
 	- `add-migration <migration-name>`
     - `update-database`
+
     This will create the required tables.
 
 4. **Build the project:**
