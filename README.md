@@ -10,7 +10,7 @@ This project is a Weather API Service that provides weather data such as average
 
 ## Setup Instructions
 
-1. **Clone the repository:**
+1. **Clone the repository**
 2. **Configure the database connection:**
    - Create Database in SQL Server using the following document: 
      https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?view=azuresql
@@ -19,10 +19,10 @@ This project is a Weather API Service that provides weather data such as average
 
 3. **Apply Migrations:**
    - Open the Package Manager Console in the project directory.
-   - Run the following commands to apply migrations:
-   - First: ensure you run this command in the WeatherDataLayer project
-	- add-migration <migration-name>
-    - update-database
+   Ensure that you run the following commands in the WeatherDataLayer project
+    - Run the following commands to apply migrations:
+	- `add-migration <migration-name>`
+    - `update-database`
     This will create the required tables.
 
 4. **Build the project:**
@@ -47,8 +47,8 @@ This project is a Weather API Service that provides weather data such as average
   - `GET /api/weatherforecast/max-temperature`
   - Response: `double`
 
-  - **Get Smart Temper Recommendation:**
-  - `GET /api/weatherforecast/max-temperature`
+- **Get Smart Temper Recommendation:**
+  - `GET /api/weatherforecast/smart-temperature`
   - Response: `int`, `AirConditionerMode`
 
 # WeatherAPIService using Docker
