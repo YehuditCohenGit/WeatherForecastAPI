@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherDataLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3ebad7064be2b641e549cb36cce19e63c48f4e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherDataLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherDataLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
